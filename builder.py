@@ -46,7 +46,7 @@ print(Fore.GREEN + '''
  "*$$$"            ^$$P
     ""              ^"
 	''')
-input(Fore.RED + "Нажмине Enter>>")
+input(Fore.RED + "Нажмите Enter>>")
 clear()
 
 print(Fore.MAGENTA + '''
