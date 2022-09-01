@@ -3,4 +3,4 @@
 Phishing instagram,vk,tiktok telegram
 
 Phishing telegram bots Author:Telegram @lamer112311 Telegram channel @cyber_puffin Full documentation: 
-https://telegra.ph/Sozdaem-botov-dlya-fishinga-soc-setej-07-24
+https://telegra.ph/Sozdaem-botov-dlya-fishinga-09-01
